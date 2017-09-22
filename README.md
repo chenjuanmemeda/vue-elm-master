@@ -1,4 +1,4 @@
-# vue-sell
+# vue-elm-master
 Vue.js 高仿饿了么外卖 App 
 
 ## 你可以学到什么
